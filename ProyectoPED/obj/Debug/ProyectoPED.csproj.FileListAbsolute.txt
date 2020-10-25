@@ -1,0 +1,10 @@
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe.config
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.exe
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\bin\Debug\ProyectoPED.pdb
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csprojAssemblyReference.cache
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Login.resources
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Properties.Resources.resources
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.GenerateResource.cache
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.exe
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.pdb
