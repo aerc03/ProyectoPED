@@ -18,6 +18,8 @@ namespace ProyectoPED
             InitializeComponent();
         }
 
+        Conexion cn = new Conexion();
+
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
         private extern static void ReleaseCapture();
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
@@ -81,6 +83,17 @@ namespace ProyectoPED
         {
             ReleaseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            cn.Abrir();
+            bool entrar = false;
+            entrar = cn.Sesion(txtUser.Text, txtContra.Text);
+            if (entrar)
+                MessageBox.Show("Bienvenido");
+            else
+                MessageBox.Show("Error");
         }
     }
 }

@@ -8,3 +8,5 @@ C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.
 C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.csproj.CoreCompileInputs.cache
 C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.exe
 C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.pdb
+C:\Users\aerc\Source\Repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.MDIParent1.resources
+C:\Users\aerc\source\repos\aerc03\ProyectoPED\ProyectoPED\obj\Debug\ProyectoPED.Usuarios.resources
